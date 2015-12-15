@@ -1,0 +1,5 @@
+C:\Users\Jevin\Documents\SharpDevelop Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Jevin\Documents\SharpDevelop Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Jevin\Documents\SharpDevelop Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.vbprojResolveAssemblyReference.cache
+C:\Users\Jevin\Documents\SharpDevelop Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Jevin\Documents\SharpDevelop Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
